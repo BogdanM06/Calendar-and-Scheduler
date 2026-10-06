@@ -21,6 +21,7 @@ The project was developed as part of my programming coursework and demonstrates 
 * Set event priorities
 * Create all-day events
 * Add and manage friends
+* Suggest moving low-priority events to different times to maximise free time with friends
 * Find suitable meeting times based on users' existing events
 * Send meeting invitations to friends
 * Accept or reject invitations
