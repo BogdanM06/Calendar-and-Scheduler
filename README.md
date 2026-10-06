@@ -50,35 +50,10 @@ The application uses a SQL Server database to store information including:
 * Friends
 * Events
 * Invitations
+* UserEvents
 
 The database is included as a **SQL Server Database Project (`.sqlproj`)**, allowing the database structure to be recreated and managed separately from the application.
 
-## Project Structure
-
-```text
-Scheduler_NEA/
-├── Scheduler_NEA.sln
-│
-├── Scheduler_NEA/
-│   ├── C# source files
-│   ├── Forms
-│   └── Properties
-│
-└── Database/
-    ├── Database.sqlproj
-    ├── Tables
-    └── ...
-```
-
-## Screenshots
-
-### Calendar
-
-*Add a screenshot of your main calendar interface here.*
-
-### MeetupHub
-
-*Add a screenshot of the MeetupHub interface here.*
 
 ## What I Learned
 
